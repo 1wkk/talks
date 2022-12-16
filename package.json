@@ -7,12 +7,13 @@
     "build": "rimraf dist && slidev build && pnpm -r run build"
   },
   "devDependencies": {
-    "pnpm": "^7.18.2",
-    "rimraf": "^3.0.2",
-    "typescript": "^4.9.4",
+    "@iconify/json": "*",
     "@slidev/cli": "^0.38.0",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "@iconify/json": "*"
+    "playwright-chromium": "^1.28.1",
+    "pnpm": "^7.18.2",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.9.4"
   }
 }
