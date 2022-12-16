@@ -1,0 +1,9 @@
+{
+  "name": "high-performance-animations",
+  "private": true,
+  "scripts": {
+    "build": "slidev build --base /high-performance-animations/ --out ../dist/high-performance-animations",
+    "dev": "slidev --remote",
+    "export": "slidev export"
+  }
+}
