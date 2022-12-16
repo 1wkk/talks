@@ -9,4 +9,4 @@ class: text-center
 
 ---
 
-- [high-performance-animations](/high-performance-animations/)
+- [High-Performance Animations](/high-performance-animations/)
