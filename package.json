@@ -3,7 +3,8 @@
   "private": true,
   "scripts": {
     "new": "pnpm create slidev",
-    "build": "rimraf dist && pnpm -r run build"
+    "dev": "slidev",
+    "build": "rimraf dist && slidev build && pnpm -r run build"
   },
   "devDependencies": {
     "pnpm": "^7.18.2",
