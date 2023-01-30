@@ -3,7 +3,6 @@ css: unocss
 layout: cover
 background: https://images.unsplash.com/photo-1530819568329-97653eafbbfa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2092&q=80
 hideInToc: true
-download: ./high-performance-animations.pdf
 transition: slide-left
 ---
 
@@ -13,7 +12,7 @@ transition: slide-left
 开发高性能动画的技术。
 </p>
 
-<div uppercase text-sm tracking-widest>
+<div text-sm tracking-widest>
 Yurica Xu
 </div>
 
